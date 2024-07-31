@@ -15,45 +15,6 @@ Heart Disease Diagnostic Analysis.pdf: A detailed PDF report of the analysis and
 Heart Disease Diagnostic Analysis.pptx: A PowerPoint presentation summarizing the project and its outcomes.
 Project 10_ Heart Disease Diagnostic Analysis.pdf: A detailed PDF of Project details).
 
-Dataset
-The dataset used in this project, HDDA Dataset.csv, includes the following features:
-
-Age
-Sex
-Chest Pain Type
-Resting Blood Pressure
-Serum Cholesterol
-Fasting Blood Sugar
-Resting Electrocardiographic Results
-Maximum Heart Rate Achieved
-Exercise Induced Angina
-ST Depression
-Slope of the Peak Exercise ST Segment
-Number of Major Vessels Colored by Fluoroscopy
-Thalassemia
-
-Installation
-To run this project locally, follow these steps:
-
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/heart-disease-diagnostic-analysis.git
-Navigate to the project directory:
-bash
-Copy code
-cd heart-disease-diagnostic-analysis
-Install the required Python packages:
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-Open the Jupyter Notebook Heart Disease Diagnostic Analysis.ipynb to explore the analysis and run the code. You can use Jupyter Notebook or Jupyter Lab to open the file:
-
-bash
-Copy code
-jupyter notebook Heart Disease Diagnostic Analysis.ipynb
-
 Methodology
 The project involves the following steps:
 
